@@ -21,7 +21,7 @@
 
 > Book Matcher is an innovative web application designed to provide personalized book recommendations based on individual personalities. Using advanced algorithms, it analyzes user responses to carefully crafted questions and suggests literature genres and specific books tailored to each user's unique preferences.
 
-Link to (FRONT END CODE)["https://github.com/Rishi-Mishra0704/book-match-frontend"]
+Link to [FRONTEND_CODE](https://github.com/Rishi-Mishra0704/book-match-frontend) licensed.
 
 **[Book_Matcher]**
 

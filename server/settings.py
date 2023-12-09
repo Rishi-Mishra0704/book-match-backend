@@ -82,11 +82,11 @@ WSGI_APPLICATION = 'server.wsgi.application'
 
 DATABASES = {
    'default': {
-       'ENGINE': 'django.db.backends.postgresql',
-       'NAME': 'book_match',
-       'USER': 'rishi',
-       'PASSWORD': '1111',
-       'HOST': 'localhost',
+       'ENGINE': 'django.db.backends.postgresql_psycopg2',
+       'NAME': 'djpsvufl',
+       'USER': 'djpsvufl',
+       'PASSWORD': 'cixf9TfV3A8i8dZoib03muP98aqacJ4Z',
+       'HOST': 'berry.db.elephantsql.com',
        'PORT': '5432',
    }
 }
